@@ -1,0 +1,20 @@
+.top-container{
+    height: 100px;
+}
+.font{
+    font-family: serif;
+    top: 150px;
+}
+.font-1{
+    font-family: "open-sans"sans-serif;
+}
+.height-1{
+    height: 100px;
+}
+.color-1{
+    color: #7a7a7a;
+}
+.bi{
+    height: 5em;
+    width: 5em;
+}
